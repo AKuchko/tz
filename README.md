@@ -12,7 +12,7 @@
 Что-то типа такого хочу )
 Главный орентир - лого GitHub
 <div align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"></img>
-  <img src="https://www.creativefabrica.com/wp-content/uploads/2020/02/16/Panda-Logo-Graphics-1-2-580x386.jpg"></img>
-  <img src="https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Panda-Logo-Graphics-1.jpg"></img>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+  <img src="https://www.creativefabrica.com/wp-content/uploads/2020/02/16/Panda-Logo-Graphics-1-2-580x386.jpg" />
+  <img src="https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Panda-Logo-Graphics-1.jpg" />
 </div>
