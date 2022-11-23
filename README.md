@@ -15,4 +15,5 @@
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
   <img src="https://www.creativefabrica.com/wp-content/uploads/2020/02/16/Panda-Logo-Graphics-1-2-580x386.jpg" />
   <img src="https://www.creativefabrica.com/wp-content/uploads/2020/02/10/Panda-Logo-Graphics-1.jpg" />
+  <img src="https://media.istockphoto.com/id/1338828766/vector/abstract-puppy-face-negative-space-logo-design-negative-space-minimalistic-flat-shelter-pet.jpg?s=612x612&w=0&k=20&c=YTheo_RUwhHR-nraB11QKL9_HjhLXWzX49wth2qWOcI=" />
 </div>
