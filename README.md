@@ -10,7 +10,7 @@
 
 ## Референсы
 Что-то типа такого хочу )
-Главный орентир - лого GitHub
+Главный ориентир - лого GitHub
 <div align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png"  width="512"/>
   <img src="https://www.creativefabrica.com/wp-content/uploads/2020/02/16/Panda-Logo-Graphics-1-2-580x386.jpg" width="512"/>
